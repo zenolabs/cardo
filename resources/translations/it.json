@@ -15,7 +15,7 @@
   "nextcloud_server_url": "URL of Nextcloud server",
   "connect": "connect",
   "log_out": "log out",
-  "sync": "synchronization",
+  "sync": "sincronizzazione",
   "subscriptions": "subscriptions",
   "open_podcast": "Open the podcast",
   "not_logged_sync": "Before syncing, you must log in to a provider",
